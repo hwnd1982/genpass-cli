@@ -19,14 +19,13 @@
   ],
   "author": {
     "name": "Kirill Lavrov",
-    "email": "hwnd1982@gmail.com"
+    "email": "lkv@myttk.ru"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/hwnd1982/genpass-cli.git"
   },
   "bugs": {
-
     "url": "https://github.com/hwnd1982/genpass-cli/issues"
   },
   "license": "ISC",
@@ -39,5 +38,6 @@
     "eslint-plugin-prettier": "^5.0.0",
     "nodemon": "^3.0.1",
     "prettier": "3.0.0"
-  }
+  },
+  "homepage": "https://github.com/hwnd1982/genpass-cli#readme"
 }
